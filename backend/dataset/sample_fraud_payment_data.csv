@@ -1,0 +1,21 @@
+Transaction_ID,Customer_ID,Transaction_Date,Transaction_Time,Customer_Age,Customer_Loyalty_Tier,Location,Store_ID,Product_SKU,Product_Category,Purchase_Amount,Payment_Method,Device_Type,IP_Address,Fraud_Flag,Footfall_Count
+tx-0001,cu-1001,2025-07-27,04:04:15,33,Silver,Dubai,STORE-001,SKU-ALPHA-01,crypto,520.40,Mobile Payment,Mobile,11.22.33.44,1,120
+tx-0002,cu-1002,2025-03-14,20:23:23,46,Platinum,London,STORE-002,SKU-BETA-02,Lipstick,86.03,Credit Card,Desktop,84.12.90.10,0,406
+tx-0003,cu-1003,2025-02-20,03:12:02,29,Gold,Milan,STORE-003,SKU-GAMMA-03,gambling,310.55,Gift Card,Mobile,79.20.35.50,1,98
+tx-0004,cu-1004,2025-04-25,19:09:43,60,Bronze,Paris,STORE-004,SKU-DELTA-04,Serum,145.10,Debit Card,Mobile,170.88.1.2,1,255
+tx-0005,cu-1005,2025-04-17,14:23:23,40,Platinum,Miami,STORE-005,SKU-EPS-05,Concealer,120.00,Credit Card,Tablet,166.31.46.111,0,179
+tx-0006,cu-1006,2025-04-12,02:35:34,25,Silver,Sydney,STORE-006,SKU-ZETA-06,crypto,270.14,Mobile Payment,Mobile,210.71.0.75,1,244
+tx-0007,cu-1007,2025-03-21,18:08:33,56,Gold,Rome,STORE-007,SKU-ETA-07,Mascara,88.50,Credit Card,Desktop,170.76.231.149,0,166
+tx-0008,cu-1008,2025-03-12,11:25:20,36,Bronze,Shanghai,STORE-008,SKU-THETA-08,gambling,205.79,Gift Card,Laptop,100.228.100.105,0,413
+tx-0009,cu-1009,2025-08-06,20:17:15,40,Gold,Shanghai,STORE-009,SKU-IOTA-09,Foundation,350.00,Mobile Payment,Mobile,175.162.153.155,1,481
+tx-0010,cu-1010,2025-07-03,03:01:47,28,Bronze,Tokyo,STORE-010,SKU-KAPPA-10,Blush,225.00,Debit Card,Mobile,236.222.176.45,1,118
+tx-0011,cu-1011,2025-03-08,05:31:33,28,Gold,Dubai,STORE-011,SKU-LAMBDA-11,Serum,260.00,Gift Card,Mobile,150.4.206.65,1,77
+tx-0012,cu-1012,2025-07-15,12:58:35,41,Bronze,Las Vegas,STORE-012,SKU-MU-12,Lipstick,62.07,Mobile Payment,Tablet,219.150.31.189,0,384
+tx-0013,cu-1013,2025-06-02,03:16:49,53,Gold,Sydney,STORE-013,SKU-NU-13,Concealer,340.25,Mobile Payment,Mobile,231.27.0.183,1,63
+tx-0014,cu-1014,2025-02-22,08:45:28,57,VIP,Rome,STORE-014,SKU-XI-14,Eyeshadow Palette,200.05,Mobile Payment,Laptop,29.144.15.120,1,95
+tx-0015,cu-1015,2025-02-21,06:39:18,41,Bronze,London,STORE-015,SKU-OMICRON-15,Concealer,110.02,Credit Card,Desktop,111.201.162.195,0,446
+tx-0016,tx-1016,2025-03-09,22:58:31,20,VIP,Milan,STORE-016,SKU-PI-16,crypto,480.90,Gift Card,Mobile,104.195.222.108,1,65
+tx-0017,tx-1017,2025-04-10,06:07:08,39,Silver,Miami,STORE-017,SKU-RHO-17,Blush,131.81,Debit Card,Laptop,170.88.243.71,0,473
+tx-0018,tx-1018,2025-05-12,13:52:36,61,Bronze,Tokyo,STORE-018,SKU-SIGMA-18,gambling,299.99,Mobile Payment,Mobile,10.155.133.31,0,464
+tx-0019,tx-1019,2025-04-26,02:28:11,19,Platinum,Sydney,STORE-019,SKU-Tau-19,Serum,320.66,Gift Card,Mobile,49.196.184.213,1,258
+tx-0020,tx-1020,2025-04-14,14:51:35,59,Gold,Zurich,STORE-020,SKU-Upsilon-20,Lipstick,75.81,Credit Card,Desktop,91.115.95.217,0,353
